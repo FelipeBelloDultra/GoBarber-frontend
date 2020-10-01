@@ -23,7 +23,7 @@ Foram usadas várias tecnologias e libs ao decorrer do desenvolvimento, vou cita
 1. Clone o projeto
 ```bash
 # Clone o repositório para rodar em sua máquina
-git clone https://github.com/FelipeBelloDultra/GoBarber-backend.git
+git clone https://github.com/FelipeBelloDultra/GoBarber-frontend.git
 
 # Instale as dependências
 # Se estiver usando o "Yarn" como gerenciador de dependências use o comando na raiz de seu projeto
